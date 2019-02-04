@@ -15,4 +15,5 @@ A little JavaScript to set direction of html page elements to auto.
 
 # Demo
 
-Will be added.
+Look at:
+https://ali0.ir/en/projects/javascript-direction-adjuster/demo/
