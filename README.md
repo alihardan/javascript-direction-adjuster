@@ -1,5 +1,5 @@
 # javascript-direction-adjuster
-A little JavaScript to set direction of html page elements to auto.
+A simple JavaScript script to automate direction of html elements.
 
 # Quick Start
 
